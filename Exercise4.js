@@ -6,7 +6,7 @@ const styles = StyleSheet.create({
     parent: {
         flex: 1,
         flexDirection: 'row',
-        justifyContent: 'center',
+        justifyContent: 'space-around',
         alignItems: 'center',
         backgroundColor: 'whitesmoke',
         marginTop: 30,
